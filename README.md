@@ -95,7 +95,7 @@ In the new page, click the "Settings" button in the menu bar
 ![image](https://user-images.githubusercontent.com/79984712/213971941-5a59f666-3692-43f1-a0bb-d2948ae5d1b1.png)
 Click the "Environment Variables" button to open the environment variable settings page
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/79984712/213968655-58662c1c-1358-4e91-add1-91503850f7da.png">
-On the environment variable setting page, create new environment variables named "AppSession" and "mongodbUrl" according to the figure below, and write the administrator login credentials and mongodbUrl (obtained in step 1) respectively.
+On the environment variable setting page, create new environment variables named "AdminSession" and "mongodbUrl" according to the figure below, and write the administrator login credentials and mongodbUrl (obtained in step 1) respectively.
 Also check the "Production", "Preview" and "Development" options below.
 Finally click the "Save" button to save
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/79984712/213969111-5d3c5de2-9e4d-4edf-b29a-a55410788c4f.png">
